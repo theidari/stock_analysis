@@ -15,7 +15,7 @@
    1. [Objective](https://github.com/theidari/VBA-challenge/edit/main/README.md#i-objective)
    2. [Methods and Software](https://github.com/theidari/VBA-challenge/edit/main/README.md#MethodsandSoftware)
 2. [Codes](https://github.com/theidari/VBA-challenge/edit/main/README.md#Codes)
-3. [Result](https://github.com/theidari/VBA-challenge/edit/main/README.md#result)
+3. [Result](https://github.com/theidari/VBA-challenge#3-results)
 4. [Explore The docs](https://github.com/theidari/VBA-challenge/edit/main/README.md#Docs)
 </details>
 
