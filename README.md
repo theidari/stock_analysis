@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/theidari/VBA-challenge/blob/main/Stock%20Header.jpg" width="400" title="Multiple year stock Analysis">
+  <img src="https://github.com/theidari/VBA-challenge/blob/main/Stock%20Header.jpg" width="400" title="Multiple Year Stock Analysis">
 </p>
 <p align="center">
 <h1 align="center">
