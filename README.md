@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://github.com/theidari/VBA-challenge/blob/main/Stock%20Header.jpg" width="400" title="Multiple Year Stock Analysis">
-</p>
-<p align="center">
 <h1 align="center">
-Multiple Year Stock Analysis
+<b>Multiple Year Stock Analysis</b>
 </h1>
-<p align="center">
-VBA-challenge-Part of UofT Data Analytics BootCamp
 </p>
+<p align="center">
+<b>VBA-challenge-Part of UofT Data Analytics BootCamp</b>
+</p>
+
+
 <details open><summary>Table of Contents</summary>
 
 1. [Overview of Project](https://github.com/theidari/VBA-challenge/edit/main/README.md#OverviewofProject)  
