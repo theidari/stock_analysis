@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <h1 align="center">
-Multiple year stock Analysis
+Multiple Year Stock Analysis
 </h1>
 <p align="center">
 VBA-challenge-Part of UofT Data Analytics BootCamp
