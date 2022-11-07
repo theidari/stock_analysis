@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/theidari/VBA-challenge/blob/main/Stock%20Header.jpg)
 # Multiple year stock Analysis (VBA-challenge)
 Module 2-Part of UofT Data Analytics BootCamp
 
