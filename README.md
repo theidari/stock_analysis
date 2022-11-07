@@ -1,4 +1,4 @@
-
+![alt text](http://url/to/img.png)
 # Multiple year stock Analysis (VBA-challenge)
 Module 2-Part of UofT Data Analytics BootCamp
 
