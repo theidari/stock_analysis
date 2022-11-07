@@ -1,50 +1,17 @@
-# VBA-challenge
+
+# Multiple year stock Analysis (VBA-challenge)
 Module 2-Part of UofT Data Analytics BootCamp
+
+<details><summary>Table of Contents</summary>
+
+1. [Overview of Project](https://github.com/theidari/VBA-challenge/edit/main/README.md#OverviewofProject)  
+   1. [Objective](https://github.com/theidari/VBA-challenge/edit/main/README.md#Objective)
+   2. [Methods and Software](https://github.com/theidari/VBA-challenge/edit/main/README.md#MethodsandSoftware)
+2. [Codes](https://github.com/theidari/VBA-challenge/edit/main/README.md#Codes)
+3. [Result](https://github.com/theidari/VBA-challenge/edit/main/README.md#result)
+</details>
+
 ##### Overview of Project
 
-<details open><summary>Table of Contents</summary><br>
+In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 
-[Headers](https://github.com/theidari/VBA-challenge/edit/main/README.md#headers)  
-[Emphasis](https://github.com/theidari/VBA-challenge/edit/main/README.md#emphasis)
-[Result](https://github.com/theidari/VBA-challenge/edit/main/README.md#result)
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
-
-</details>
-
-##### Table of Contents  
-
-<a name="headers"/>
-<a name="headers"/>
-## Headers
-<a/>
-
-About the Project
-
-Built With
-
-<details open>
-<summary>Table of Contents</summary>
-<br>
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements!
-</details>
-
-Getting Started
-
-Prerequisites
-Installation
-
-
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
