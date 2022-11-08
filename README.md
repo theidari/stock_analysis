@@ -36,7 +36,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 
 ### ii. Methods and Software
-The analyses were performed using the [Multiple_Year_Stock_Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) dataset.
+The analyses were performed using the [Multiple Year Stock Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) dataset.
 Following Software were used in this project:
 
 <img src="https://user-images.githubusercontent.com/17062794/200467306-1b06a964-0384-4a87-a0e5-6d4ba32fc9de.png" width="150" title="VBA"><img src="https://user-images.githubusercontent.com/17062794/200467777-f2df83a5-5964-4de3-9389-bcd7190cdde3.png" width="200" title="Excel"><img src="https://user-images.githubusercontent.com/17062794/200468097-278f79e9-9eb8-44e9-a31c-58b92e7efcca.png" width="150" title="VS">
@@ -168,24 +168,24 @@ Following Software were used in this project:
 ## 3. Results
 <b>Stock Performance Comparison:</b>
 <br>
-<b>2018:</b> <b>THB</b> had the gratest yearly percent change <i>increase</i> of all stocks at 141.42%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 90%.
-in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers with a amount of 1.69x10<sup>+12</sup>. 
+<b>2018:</b> <b>THB</b> had the greatest yearly percent change <i>increase</i> of all stocks at 141.42%. and <b>RKS</b> had the greatest yearly percent change <i>decrease</i> with falling down about 90%.
+in addition, <b>QKN</b> had highest total volume in 3K unique stock trickers with a amount of 1.69x10<sup>+12</sup>. 
 <br></br>
 
 > <sub>2018 Calculation and Result</sub>
 <p align="center">
 <img src="https://github.com/theidari/VBA-challenge/blob/main/Result%20and%20File%20IMGs/2018-Result.png" width="800" title="Multiple Year Stock Analysis">
 </p>
-<b>2019:</b> <b>RYU</b> had the gratest yearly percent change <i>increase</i> of all stocks at 190.03%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 91.6%.
-in addition, <b>ZQD</b> had Highest total volume in 3K unique stock trickers with a amount of 4.37x10<sup>+12</sup>.
+<b>2019:</b> <b>RYU</b> had the greatest yearly percent change <i>increase</i> of all stocks at 190.03%. and <b>RKS</b> had the greatest yearly percent change <i>decrease</i> with falling down about 91.6%.
+in addition, <b>ZQD</b> had highest total volume in 3K unique stock trickers with a amount of 4.37x10<sup>+12</sup>.
 <br></br>
 
 > <sub>2019 Calculation and Result</sub>
 <p align="center">
 <img src="https://github.com/theidari/VBA-challenge/blob/main/Result%20and%20File%20IMGs/2019-Result.png" width="800" title="Multiple Year Stock Analysis">
 </p>
-<b>2020:</b> <b>YDI</b> had the gratest yearly percent change <i>increase</i> of all stocks at 188.76%. and <b>VNG</b> had the gratest yearly percent change <i>decrease</i> with falling down about 89%.
-in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers with a amount of 3.45x10<sup>+12</sup>.
+<b>2020:</b> <b>YDI</b> had the greatest yearly percent change <i>increase</i> of all stocks at 188.76%. and <b>VNG</b> had the greatest yearly percent change <i>decrease</i> with falling down about 89%.
+in addition, <b>QKN</b> had highest total volume in 3K unique stock trickers with a amount of 3.45x10<sup>+12</sup>.
 <br></br>
 
 > <sub>2020 Calculation and Result</sub>
@@ -196,7 +196,7 @@ in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers wit
 [<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
 <a name="multiple-year-stock-analysis"></a> 
 ## 4. Explore The Docs
-[Multiple_Year_Stock_Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
+[Multiple Year Stock Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
 
 [Results Images](https://github.com/theidari/VBA-challenge/tree/main/Result%20and%20File%20IMGs)
 ## 5. References
