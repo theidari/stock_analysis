@@ -201,3 +201,6 @@ in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers wit
 [Results Images](https://github.com/theidari/VBA-challenge/tree/main/Result%20and%20File%20IMGs)
 ## 5. References
 Dataset created by Trilogy Education Services, a 2U, Inc. brand.
+
+[<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
+<a name="multiple-year-stock-analysis"></a> 
