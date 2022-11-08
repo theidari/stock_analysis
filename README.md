@@ -11,12 +11,13 @@
 
 <details open><summary>Table of Contents</summary>
 
-1. [Overview of Project](https://github.com/theidari/VBA-challenge/edit/main/README.md#1-overview-of-project)  
-   1. [Objective](https://github.com/theidari/VBA-challenge/edit/main/README.md#i-objective)
-   2. [Methods and Software](https://github.com/theidari/VBA-challenge/edit/main/README.md#MethodsandSoftware)
-2. [Codes](https://github.com/theidari/VBA-challenge/edit/main/README.md#Codes)
+1. [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)  
+   1. [Objective](https://github.com/theidari/VBA-challenge#i-objective)
+   2. [Methods and Software](https://github.com/theidari/VBA-challenge#ii-methods-and-software)
+2. [Codes](https://github.com/theidari/VBA-challenge#2-codes)
 3. [Result](https://github.com/theidari/VBA-challenge#3-results)
-4. [Explore The docs](https://github.com/theidari/VBA-challenge/edit/main/README.md#Docs)
+4. [Explore The Docs](https://github.com/theidari/VBA-challenge#4-Explore-The-Docs)
+5. [References](https://github.com/theidari/VBA-challenge#5-References)
 </details>
 
 ## 1. Overview of Project
@@ -162,7 +163,8 @@ Following Software were used in this project:
 
 
 [<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
-<a name="multiple-year-stock-analysis"></a> 
+<a name="multiple-year-stock-analysis"></a>
+
 ## 3. Results
 <b>Stock Performance Comparison:</b>
 <br>
@@ -193,3 +195,9 @@ in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers wit
 
 [<sup>⬆ BACK TO TOP ⬆</sup>](#multiple-year-stock-analysis)
 <a name="multiple-year-stock-analysis"></a> 
+## 4. Explore The Docs
+[Multiple_Year_Stock_Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm)
+
+[Results Images](https://github.com/theidari/VBA-challenge/tree/main/Result%20and%20File%20IMGs)
+## 5. References
+Dataset created by Trilogy Education Services, a 2U, Inc. brand.
