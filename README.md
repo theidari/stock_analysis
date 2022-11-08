@@ -20,15 +20,28 @@
 </details>
 
 ## 1. Overview of Project
-  This project used Visual Basic for Applications (VBA) programming language to create flexible and interactive macros to run analyses on multiple stocks.
-  
-  The results of the analyses provide insights on the trading volume and the performance of a green energy stock, DAQO New Energy Corp (DQ) and will guide decisions on how to diversify the green energy stock portfolio. The analyses will also provide information on the cost of running the VBA automated scripts. The analyses were performed using the Stock_analysis dataset
+  This project used Visual Basic for Applications (VBA) programming language to analyze generated more than <b>750K</b> stock market data.
+The results of the analyses provide insights into about <b>3K</b> unique stock's ➊ Ticker Symbol, ➋ Yearly Change,➌ Percent Change, and ➍ Total Stock Volume. The analyses will also provide information on the <b>"Greatest % increase", "Greatest % decrease", and "Greatest total volume"</b>.
 
-In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 ### i. Objective
-To explore green energy stock performance by analyzing financial data using VBA and to refactor codes to make the VBA scripts run faster.
+Create a script that loops through all the stocks for one year and outputs the following information:
+| Main Part  | Bonus |
+| ------------- | ------------- |
+| The ticker symbol  | Greatest % increase  |
+| Yearly change  | Greatest % decrease  |
+| The percentage change  | Greatest total volume  |
+| The total stock volume  |  |
+
+
 
 ### ii. Methods and Software
+The analyses were performed using the [Multiple_Year_Stock_Data](https://github.com/theidari/VBA-challenge/blob/main/Multiple_year_stock_data.xlsm) dataset.
+Following Software were used in this project:
+
+<img src="https://user-images.githubusercontent.com/17062794/200467306-1b06a964-0384-4a87-a0e5-6d4ba32fc9de.png" width="150" title="VBA"><img src="https://user-images.githubusercontent.com/17062794/200467777-f2df83a5-5964-4de3-9389-bcd7190cdde3.png" width="200" title="Excel"><img src="https://user-images.githubusercontent.com/17062794/200468097-278f79e9-9eb8-44e9-a31c-58b92e7efcca.png" width="150" title="VS">
+
+
+
 
 <p align="center">
   
@@ -154,23 +167,23 @@ To explore green energy stock performance by analyzing financial data using VBA 
 <b>Stock Performance Comparison:</b>
 <br>
 <b>2018:</b> <b>THB</b> had the gratest yearly percent change <i>increase</i> of all stocks at 141.42%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 90%.
-Highest total volume 
+in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers with a amount of 1.69x10<sup>+12</sup>. 
 <br></br>
 
 > <sub>2018 Calculation and Result</sub>
 <p align="center">
 <img src="https://github.com/theidari/VBA-challenge/blob/main/Result%20and%20File%20IMGs/2018-Result.png" width="800" title="Multiple Year Stock Analysis">
 </p>
-<b>2019:</b> <b>THB</b> had the gratest yearly percent change <i>increase</i> of all stocks at 141.42%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 90%.
-Highest total volume 
+<b>2019:</b> <b>RYU</b> had the gratest yearly percent change <i>increase</i> of all stocks at 190.03%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 91.6%.
+in addition, <b>ZQD</b> had Highest total volume in 3K unique stock trickers with a amount of 4.37x10<sup>+12</sup>.
 <br></br>
 
 > <sub>2019 Calculation and Result</sub>
 <p align="center">
 <img src="https://github.com/theidari/VBA-challenge/blob/main/Result%20and%20File%20IMGs/2019-Result.png" width="800" title="Multiple Year Stock Analysis">
 </p>
-<b>2020:</b> <b>THB</b> had the gratest yearly percent change <i>increase</i> of all stocks at 141.42%. and <b>RKS</b> had the gratest yearly percent change <i>decrease</i> with falling down about 90%.
-Highest total volume 
+<b>2020:</b> <b>YDI</b> had the gratest yearly percent change <i>increase</i> of all stocks at 188.76%. and <b>VNG</b> had the gratest yearly percent change <i>decrease</i> with falling down about 89%.
+in addition, <b>QKN</b> had Highest total volume in 3K unique stock trickers with a amount of 3.45x10<sup>+12</sup>.
 <br></br>
 
 > <sub>2020 Calculation and Result</sub>
