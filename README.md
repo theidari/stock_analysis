@@ -14,7 +14,7 @@
 1. [Overview of Project](https://github.com/theidari/VBA-challenge#1-overview-of-project)  
    1. [Objective](https://github.com/theidari/VBA-challenge#i-objective)
    2. [Methods and Software](https://github.com/theidari/VBA-challenge#ii-methods-and-software)
-2. [Codes](https://github.com/theidari/VBA-challenge#2-codes)
+2. [Code](https://github.com/theidari/VBA-challenge#2-code)
 3. [Result](https://github.com/theidari/VBA-challenge#3-results)
 4. [Explore The Docs](https://github.com/theidari/VBA-challenge#4-Explore-The-Docs)
 5. [References](https://github.com/theidari/VBA-challenge#5-References)
@@ -51,7 +51,7 @@ Following Software were used in this project:
   
 </p>
 
-## 2. Codes
+## 2. Code
 <details><summary>VBA Code (Click Me)</summary>
 
 
