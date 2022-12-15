@@ -26,7 +26,7 @@ The results of the analyses provide insights into about <b>3K</b> unique stock's
 
 ### i. Objective
 Create a script that loops through all the stocks for one year and outputs the following information:
-| $${\color{red}Main \space \color{red}Part}$$ | $${\color{red}Bonus}$$ |
+| ${\color{red}Main \space \color{red}Part}$ | ${\color{red}Bonus}$ |
 | ------------- | ------------- |
 | The ticker symbol  | Greatest % increase  |
 | Yearly change  | Greatest % decrease  |
